@@ -18,4 +18,10 @@
   <url><loc>https://lohmskincare.com/sitemap.html</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://lohmskincare.com/feed.xml</loc><lastmod>2026-02-21</lastmod></url>
   <url><loc>https://lohmskincare.com/robots.txt</loc><lastmod>2026-02-21</lastmod></url>
+  <url>
+    <loc>https://lohmskincare.com/posts/science-behind-natural-skincare-plant-based-ingredients/</loc>
+    <lastmod>2026-03-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
